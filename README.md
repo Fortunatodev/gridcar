@@ -27,6 +27,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Tracks é um app de viagens basico.
+o Gridcar e um projeto para melhorar habilidades em grid
 
 
